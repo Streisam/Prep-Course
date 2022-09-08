@@ -1,0 +1,19 @@
+Variables
+
+las variables son contenedores o cajas de datos, en donde cada contenedor se le asigna un nombre y dentro de estos, se puede asignar un dato, por ejemplo, un contenedor con nombre asignado de miEdad, en el cual se almacenara el valor de mi edad.
+
+Strings
+
+Los strings son tipo de datos que se refiere a cadenas de texto, estas se definen entre comillas al programar, cualquier texto entre comillas es una cadena o string, por ejemplo, creamos una variable bienvenida y luego le asignamos el mensaje de texto "Hola usuario!".
+
+Funciones
+
+Las funciones son bloques de codigo o serie de instrucciones en forma de codigo que se utilizan para evitar volver a escribir el mismo codigo nuevamente, por ejemplo, un programa que verifique la mayoria de edad para cada usuario ingresado.
+
+Declaraciones 'if'
+
+Esta declaracion se utiliza para verificar si se cumple una condicion o no, llegando a realizar un bloque de codigo diferente segun su condicion, por ejemplo, un programa que te indique si puedes cruzar la calle segun el color del semaforo.
+
+Valores booleanos
+
+
